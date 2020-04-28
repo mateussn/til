@@ -5,8 +5,12 @@ For the organization sake of this repo I will subdivide each tecnology in separa
 
 ### Categories 
 
+- [Java](#Java)
 - [JavaScript](#JavaScript)
 
+### Java
+
+- [Test](Java/test.md)
 
 ### JavaScript
 
