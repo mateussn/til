@@ -1,4 +1,4 @@
-# Sprites :space_invader: :space_invader:
+# :space_invader: :space_invader: Sprites :space_invader: :space_invader:
 
 First of all, what's a Sprite? 
 
