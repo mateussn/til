@@ -5,13 +5,13 @@ For the organization sake of this repo I will subdivide each tecnology in separa
 
 ### Categories 
 
-- [GBA Programming](#GBA Programming)
+- [GBA Programming](#GBA_Programming)
 - [Java](#Java)
 - [JavaScript](#JavaScript)
 
 ### GBA Programming 
 
--[Sprite Definition](#GBA Programming/Sprite_Definition.md)
+- [Sprite definition](#GBA_Programming/Sprite_definition.md)
 
 ### Java
 
