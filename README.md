@@ -8,6 +8,7 @@ For the organization sake of this repo I will subdivide each tecnology in separa
 - [GBA Programming](#GBA_Programming)
 - [Java](#Java)
 - [JavaScript](#JavaScript)
+- [Linux](#Linux)
 
 ### GBA Programming 
 
@@ -20,3 +21,7 @@ For the organization sake of this repo I will subdivide each tecnology in separa
 ### JavaScript
 
 - [Beginner's adventure](JavaScript/A_beginners_adventure.md)
+
+### Linux
+
+- [Scanning bad blocks](Linux/scanning-badblocks.md)
