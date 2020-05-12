@@ -20,7 +20,7 @@ For the organization sake of this repo I will subdivide each tecnology in separa
 
 ### JavaScript
 
-- [Beginner's adventure](JavaScript/beginners-adventure.md)
+- [Beginner's adventure](JavaScript/beginner-adventure.md)
 
 ### Linux
 
