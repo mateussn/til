@@ -12,7 +12,7 @@ For the organization sake of this repo I will subdivide each tecnology in separa
 
 ### GBA Programming 
 
-- [Sprite definition](GBA_Programming/Sprite_definition.md)
+- [Sprite definition](GBA_Programming/sprite-definition.md)
 
 ### Java
 
@@ -20,7 +20,7 @@ For the organization sake of this repo I will subdivide each tecnology in separa
 
 ### JavaScript
 
-- [Beginner's adventure](JavaScript/A_beginners_adventure.md)
+- [Beginner's adventure](JavaScript/beginners-adventure.md)
 
 ### Linux
 
