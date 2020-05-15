@@ -6,10 +6,10 @@ right now on my HD, randomly the pc is freezing and being inutilizable.
 there is a command that enables you to scan a device and find possible errors:
 (this command uses badblocks program)
 
-```sudo badblocks -v /dev/sdaxx > badsectors.txt``` 
+```sudo badblocks -v /dev/device > badsectors.txt``` 
 
 * -v              = display operation details
 * sudo            = super user permission 
 * badblocks       = program used 
-* /dev/sdaxx      = device to scan
+* /dev/device     = device you want to scan, in my case was dev/sda2
 * badsectors.txt  = document with bad sectors
