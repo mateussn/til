@@ -22,7 +22,7 @@ For the organization sake of this repo I will subdivide each tecnology in separa
 
 - [Beginner's adventure](JavaScript/beginner-adventure.md)
 - [Quick intro to JS](JavaScript/intro.md)
-- [JS coding space](JavaScript/js-tag.md)
+- [JS coding tag](JavaScript/js-tag.md)
 - [Outputting something](JavaScript/hello-world.md)
 
 ### Linux
