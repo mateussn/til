@@ -16,7 +16,7 @@ For the organization sake of this repo I will subdivide each tecnology in separa
 
 ### Java
 
-- [Test](Java/test.md)
+- [Formatting a number](Java/formatting-number.md)
 
 ### JavaScript
 
