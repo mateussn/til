@@ -17,6 +17,7 @@ For the organization sake of this repo I will subdivide each tecnology in separa
 ### Java
 
 - [Formatting a number](Java/formatting-number.md)
+- [Detecting a character/string](Java/dots-string.md)
 
 ### JavaScript
 
