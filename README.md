@@ -29,3 +29,4 @@ For the organization sake of this repo I will subdivide each tecnology in separa
 ### Linux
 
 - [Scanning bad blocks](Linux/scanning-badblocks.md)
+- [Back one directory](Linux/back-directory.md)
