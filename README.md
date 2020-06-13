@@ -13,6 +13,7 @@ For the organization sake of this repo I will subdivide each tecnology in separa
 ### GBA Programming 
 
 - [Sprite definition](GBA_Programming/sprite-definition.md)
+- [What stands for RISC?](GBA_Programming/risc.md)
 
 ### Java
 
