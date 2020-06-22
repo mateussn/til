@@ -19,6 +19,7 @@ For the organization sake of this repo I will subdivide each tecnology in separa
 
 - [Sprite definition](GBA_Programming/sprite-definition.md)
 - [What stands for RISC?](GBA_Programming/risc.md)
+- [Barrel-shift operations](GBA_Programming/barrel-shifter.md)
 
 ### Java
 
