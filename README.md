@@ -4,11 +4,16 @@ The main reason that this repository exists is that I want to share what I learn
 For the organization sake of this repo I will subdivide each tecnology in separated folder.
 
 ### Categories 
-
+- [Assembly x86](#AssemblyX86)
+- [Digital Electronic](#Electronics)
 - [GBA Programming](#GBA_Programming)
 - [Java](#Java)
 - [JavaScript](#JavaScript)
 - [Linux](#Linux)
+- [Node.js](#NodeJs)
+- [React](#ReactJs)
+- [React Native](#ReactNative)
+- [TypeScript](#TypeScript)
 
 ### GBA Programming 
 
