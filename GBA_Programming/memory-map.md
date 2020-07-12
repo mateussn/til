@@ -10,6 +10,6 @@
 
 04000000 - 040003ff -> Input/Output Registers -------------> 1kb || 1023b --------> 32bit
 
-0500 000 - 050003ff ---> Background/Object Palette Ram ---> 1kb || 1023b ------> 16bit
+05000000 - 050003ff ---> Background/Object Palette Ram ---> 1kb || 1023b ------> 16bit
 
 
