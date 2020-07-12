@@ -8,6 +8,8 @@
 
 03000000 - 03007fff ---> WRAM(Work Ram(On Chip)) ----> 32kb || 32768b -----> 32 bit
 
-04000000 - 040003fe -> Input/Output Registers -------------> 1kb || 1022b --------> 32bit
+04000000 - 040003ff -> Input/Output Registers -------------> 1kb || 1023b --------> 32bit
+
+0500 000 - 050003ff ---> Background/Object Palette Ram ---> 1kb || 1023b ------> 16bit
 
 
