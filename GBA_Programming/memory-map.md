@@ -14,4 +14,6 @@
 
 06000000 - 06017fff ---> VRAM(Video Ram) -----------------> 96kb|| 97518b -----> 16bit
 
+07000000 - 070003ff --> OAM(Object Attribute Memory) --> 1kb||1023b --------> 32bit 
+
 
