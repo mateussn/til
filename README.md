@@ -7,7 +7,7 @@ For the organization sake of this repo I will subdivide each tecnology in separa
 - [Assembly x86](#Assembly_x86)
 - [Diversified](#Diversified)
 - [Digital Electronic](#Electronics)
-- [GBA Programming](#GBA_Programming)
+- [GBA Programming](#gba-programming)
 - [Java](#Java)
 - [JavaScript](#JavaScript)
 - [Linux](#Linux)
