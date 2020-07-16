@@ -12,8 +12,10 @@
 
 05000000 - 050003ff --> Background/Object Palette Ram ---> 1kb || 1023b ------> 16bit
 
-06000000 - 06017fff ---> VRAM(Video Ram) -----------------> 96kb|| 97518b -----> 16bit
+06000000 - 06017fff ---> VRAM(Video Ram) -----------------> 96kb|| 97518b ------> 16bit
 
-07000000 - 070003ff --> OAM(Object Attribute Memory) --> 1kb||1023b --------> 32bit 
+07000000 - 070003ff --> OAM(Object Attribute Memory) --> 1kb||1023b ---------> 32bit 
+
+08000000 - variable ---> Game Pak ROM ----------------> variable(max 32mb) ---> 16bit 
 
 
