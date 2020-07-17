@@ -22,6 +22,7 @@ For the organization sake of this repo I will subdivide each tecnology in separa
 ### GBA Programming 
 
 - [GBA Memory Map](GBA_Programming/memory-map.md)
+- [Data operation examples](GBA_Programming/data-operation.md)
 - [Sprite definition](GBA_Programming/sprite-definition.md)
 - [What stands for RISC?](GBA_Programming/risc.md)
 - [Barrel-shift operations](GBA_Programming/barrel-shifter.md)
