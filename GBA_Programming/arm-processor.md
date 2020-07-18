@@ -3,7 +3,9 @@
 The ARM Processor that Game Boy Advance uses is the ARM7tdmi or ARMv4 with a RISC(Reduced Instruction Set Computer) characteristic.
 
 Operation Frequency: 16.78 MHz 
-Sets of instructions: 2 (ARM & THUMB)
+
+Sets of instructions: 2 (ARM(32bit opcodes/instructions) & THUMB(ARM subset(16bit opcodes/instructions))
+
 Instructions max wide: 32bit
 
 
