@@ -21,6 +21,7 @@ For the organization sake of this repo I will subdivide each tecnology in separa
 
 ### GBA Programming 
 
+- [ARM7 processor](GBA_Programming/arm-processor.md)
 - [GBA Memory Map](GBA_Programming/memory-map.md)
 - [Data operation examples](GBA_Programming/data-operation.md)
 - [Sprite definition](GBA_Programming/sprite-definition.md)
