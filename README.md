@@ -4,7 +4,7 @@ The main reason that this repository exists is that I want to share what I learn
 For the organization sake of this repo I will subdivide each tecnology in separated folder.
 
 ### Categories 
-- [Assembly x86](#Assembly_x86)
+- [Assembly x86](#assembly-x86)
 - [Diversified](#Diversified)
 - [Digital Electronic](#Electronics)
 - [GBA Programming](#gba-programming)
@@ -15,6 +15,9 @@ For the organization sake of this repo I will subdivide each tecnology in separa
 - [React](#ReactJs)
 - [React Native](#ReactNative)
 - [TypeScript](#TypeScript)
+
+### Assembly x86
+- [Some basic operations](Assembly_x86/some-operations.md)
 
 ### Diversified
 - [What BIOS stand for?](Diversified/bios.md)
