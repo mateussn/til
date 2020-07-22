@@ -16,7 +16,7 @@ For the organization sake of this repo I will subdivide each tecnology in separa
 - [React Native](#ReactNative)
 - [TypeScript](#TypeScript)
 
-### Assembly x86
+### x86 Assembly 
 - [Some basic operations](Assembly_x86/some-operations.md)
 
 ### Diversified
