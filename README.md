@@ -12,7 +12,7 @@ For the organization sake of this repo I will subdivide each tecnology in separa
 - [JavaScript](#JavaScript)
 - [Linux](#Linux)
 - [Node.js](#NodeJs)
-- [React](#ReactJs)
+- [ReactJS](#ReactJs)
 - [React Native](#ReactNative)
 - [TypeScript](#TypeScript)
 
