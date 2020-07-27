@@ -54,4 +54,4 @@ For the organization sake of this repo I will subdivide each tecnology in separa
 
 ### ReactJS
 
-- [Creating a ReactJS app](ReactJS/create-app.md)
+- [Creating a ReactJS app](ReactJs/create-app.md)
