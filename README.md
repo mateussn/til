@@ -15,7 +15,7 @@ For the organization sake of this repo I will subdivide each tecnology in separa
 - [ReactJS](#ReactJs)
 - [React Native](#ReactNative)
 - [TypeScript](#TypeScript)
-Creating a React app
+
 ### x86 Assembly 
 - [Some basic operations](Assembly_x86/some-operations.md)
 
