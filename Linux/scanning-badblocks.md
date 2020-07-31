@@ -11,5 +11,5 @@ there is a command that enables you to scan a device and find possible errors:
 * -v              = display operation details
 * sudo            = super user permission 
 * badblocks       = program used 
-* /dev/device     = device you want to scan, in my case was dev/sda2
+* /dev/device     = device that you want to scan, in my case was dev/sda2
 * badsectors.txt  = document with bad sectors
