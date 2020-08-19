@@ -21,6 +21,7 @@ For the organization sake of this repo I will subdivide each tecnology in separa
 
 ### Diversified
 - [What BIOS stand for?](Diversified/bios.md)
+- [What CLI stand for?](Diversified/cli.md)
 
 ### GBA Programming 
 
