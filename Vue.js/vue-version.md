@@ -1,6 +1,6 @@
 # Current installed version
 
-To outpue Vue current installed version on the machine just type:
+To output Vue current installed version on the machine just type:
 
 ```vue --version ```
 
