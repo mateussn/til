@@ -15,6 +15,7 @@ For the organization sake of this repo I will subdivide each tecnology in separa
 - [ReactJS](#ReactJs)
 - [React Native](#ReactNative)
 - [TypeScript](#TypeScript)
+- [Windows](#windows)
 
 ### x86 Assembly 
 - [Some basic operations](Assembly_x86/some-operations.md)
@@ -56,3 +57,8 @@ For the organization sake of this repo I will subdivide each tecnology in separa
 ### ReactJS
 
 - [Creating a ReactJS app](ReactJs/create-app.md)
+
+### Windows
+
+- [How to see your PC IP?](Windows/ip_config.md)
+
