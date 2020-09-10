@@ -9,6 +9,7 @@ We can subdivide SEO practices is 3 parts:
 internal
 
 SEO on-site: HTML quality, loading time, user experience, site security, heading tags, rich snippets 
+
 SEO on-page: Content Quality, Use of key-words, url optimization, title description, and inside links 
 
 external
