@@ -14,6 +14,7 @@ For the organization sake of this repo I will subdivide each tecnology in separa
 - [Node.js](#NodeJs)
 - [ReactJS](#ReactJs)
 - [React Native](#ReactNative)
+- [SEO](#seo)
 - [TypeScript](#TypeScript)
 - [Windows](#windows)
 
@@ -57,6 +58,10 @@ For the organization sake of this repo I will subdivide each tecnology in separa
 ### ReactJS
 
 - [Creating a ReactJS app](ReactJs/create-app.md)
+
+### SEO
+
+- [What is SEO?](SEO/what-is-seo.md)
 
 ### Windows
 
