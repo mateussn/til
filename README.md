@@ -62,6 +62,7 @@ For the organization sake of this repo I will subdivide each tecnology in separa
 ### SEO
 
 - [What is SEO?](SEO/what-is-seo.md)
+- [What is Sitemap?](SEO/what-is-sitemap.md)
 
 ### Windows
 
