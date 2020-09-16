@@ -16,6 +16,7 @@ For the organization sake of this repo I will subdivide each tecnology in separa
 - [React Native](#ReactNative)
 - [SEO](#seo)
 - [TypeScript](#TypeScript)
+- [Web Programming](#web-programming)
 - [Windows](#windows)
 
 ### x86 Assembly 
@@ -63,6 +64,10 @@ For the organization sake of this repo I will subdivide each tecnology in separa
 
 - [What is SEO?](SEO/what-is-seo.md)
 - [What is Sitemap?](SEO/what-is-sitemap.md)
+
+### Web Programming
+
+- [What about SSG, SPA and SSR?](Web_Programming/ssg-spa-ssr.md)
 
 ### Windows
 
