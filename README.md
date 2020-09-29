@@ -16,6 +16,7 @@ For the organization sake of this repo I will subdivide each tecnology in separa
 - [React Native](#ReactNative)
 - [SEO](#seo)
 - [TypeScript](#TypeScript)
+- [UX](#ux)
 - [Web Programming](#web-programming)
 - [Windows](#windows)
 
@@ -65,6 +66,9 @@ For the organization sake of this repo I will subdivide each tecnology in separa
 - [What is SEO?](SEO/what-is-seo.md)
 - [What is Sitemap?](SEO/what-is-sitemap.md)
 - [What about Organic Traffic?](SEO/organic-traffic.md)
+
+### UX
+- [Customer journey?](UX/customer-journey.md)
 ### Web Programming
 
 - [What about SSG, SPA and SSR?](Web_Programming/ssg-spa-ssr.md)
