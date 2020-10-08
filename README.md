@@ -72,7 +72,7 @@ For the organization sake of this repo I will subdivide each tecnology in separa
 ### Web Programming
 
 - [What about SSG, SPA and SSR?](Web_Programming/ssg-spa-ssr.md)
-- [SSH?](ssh.md)
+- [SSH?](Web_Programming/ssh.md)
 
 ### Windows
 
