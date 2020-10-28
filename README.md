@@ -1,7 +1,7 @@
 # 📝 TIL - Today I Learned  📝
 
 The main reason that this repository exists is that I want to share what I learned about one technology in a especific day.
-For the organization sake of this repo I will subdivide each tecnology in separated folder.
+For the organization sake of this repo I will subdivide each tecnology in separated folder. I hope you learn from here and enjoy!
 
 ### Categories 
 - [Assembly x86](#assembly-x86)
