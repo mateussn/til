@@ -26,6 +26,7 @@ For the organization sake of this repo I will subdivide each tecnology in separa
 ### Diversified
 - [What BIOS stand for?](Diversified/bios.md)
 - [What CLI stand for?](Diversified/cli.md)
+- [What about QVGA size?](Diversified/qvga-videosize.md)
 
 ### GBA Programming 
 
