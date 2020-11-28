@@ -1,5 +1,6 @@
-# What is Laravel?
-Laravel is a framework that is most used in the server-side, It promises to help PHP development with an elegant style.
+# What is Laravel Framework?
+
+Laravel is a Web Framework that promises to help PHP development with elegancy, with a lot of gain in scalability and productivity. With Laravel, you can develop any kind of web application (front and back-end), for example, robust ones, with much power of processing without losing the simplicity. 
 
 The official Laravel website says that:
 
