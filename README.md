@@ -5,6 +5,7 @@ For the organization sake of this repo I will subdivide each tecnology in separa
 
 ### Categories 
 - [Assembly x86](#assembly-x86)
+- [Computer Network](#computer-network)
 - [Diversified](#Diversified)
 - [Digital Electronic](#Electronics)
 - [GBA Programming](#gba-programming)
@@ -22,6 +23,9 @@ For the organization sake of this repo I will subdivide each tecnology in separa
 
 ### x86 Assembly 
 - [Some basic operations](Assembly_x86/some-operations.md)
+
+### Computer Network
+- [What is DNS?](Computer_Network/dns.md)
 
 ### Diversified
 - [What BIOS stand for?](Diversified/bios.md)
