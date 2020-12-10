@@ -26,7 +26,7 @@ For the organization sake of this repo I will subdivide each tecnology in separa
 
 ### Computer Network
 - [What is DNS?](Computer_Network/dns.md)
-
+- [What is SSL?](Computer_Network/ssl.md)
 ### Diversified
 - [What BIOS stand for?](Diversified/bios.md)
 - [What CLI stand for?](Diversified/cli.md)
