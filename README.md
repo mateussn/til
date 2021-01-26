@@ -78,7 +78,7 @@ For the organization sake of this repo I will subdivide each tecnology in separa
 
 - [What about SSG, SPA and SSR?](Web_Programming/ssg-spa-ssr.md)
 - [SSH?](Web_Programming/ssh.md)
-
+- [What about CORS?](Web_Programming/cors.md)
 ### Windows
 
 - [How to see your PC IP?](Windows/ip_config.md)
