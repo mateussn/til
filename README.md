@@ -13,6 +13,7 @@ For the organization sake of this repo I will subdivide each tecnology in separa
 - [JavaScript](#JavaScript)
 - [Linux](#Linux)
 - [Node.js](#NodeJs)
+- [Rom Hacking](#rom-hacking)
 - [ReactJS](#ReactJs)
 - [React Native](#ReactNative)
 - [SEO](#seo)
