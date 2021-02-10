@@ -85,8 +85,8 @@ For the organization sake of this repo I will subdivide each tecnology in separa
 ### UX
 - [Customer journey?](UX/customer-journey.md)
 
-### Vue JS
-- [Whats the current installed version?](vue-version.md)
+### Vue.js
+- [Checking currently installed version](Vue.js/vue-version.md)
 
 ### Web Programming
 
