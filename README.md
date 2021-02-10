@@ -21,7 +21,7 @@ For the organization sake of this repo I will subdivide each tecnology in separa
 - [SEO](#seo)
 - [TypeScript](#TypeScript)
 - [UX](#ux)
-- [Vue.js](#vue-js)
+- [Vue.js](#vuejs)
 - [Web Programming](#web-programming)
 - [Windows](#windows)
 
