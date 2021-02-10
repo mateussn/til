@@ -12,6 +12,7 @@ For the organization sake of this repo I will subdivide each tecnology in separa
 - [GBA Programming](#gba-programming)
 - [Java](#Java)
 - [JavaScript](#JavaScript)
+- [Laravel](#laravel)
 - [Linux](#Linux)
 - [Node.js](#NodeJs)
 - [Rom Hacking](#rom-hacking)
@@ -59,6 +60,9 @@ For the organization sake of this repo I will subdivide each tecnology in separa
 - [JS coding tag](JavaScript/js-tag.md)
 - [Outputting something](JavaScript/hello-world.md)
 
+### Laravel
+- [What is?](Laravel/what-is-laravel-framework.md)
+
 ### Linux
 
 - [Scanning bad blocks](Linux/scanning-badblocks.md)
@@ -80,6 +84,10 @@ For the organization sake of this repo I will subdivide each tecnology in separa
 
 ### UX
 - [Customer journey?](UX/customer-journey.md)
+
+### Vue JS
+- [Whats the current installed version?](vue-version.md)
+
 ### Web Programming
 
 - [What about SSG, SPA and SSR?](Web_Programming/ssg-spa-ssr.md)
