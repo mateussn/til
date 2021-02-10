@@ -8,6 +8,7 @@ For the organization sake of this repo I will subdivide each tecnology in separa
 - [Computer Network](#computer-network)
 - [Diversified](#Diversified)
 - [Digital Electronic](#Electronics)
+- [Emulation](#emulation)
 - [GBA Programming](#gba-programming)
 - [Java](#Java)
 - [JavaScript](#JavaScript)
@@ -32,6 +33,10 @@ For the organization sake of this repo I will subdivide each tecnology in separa
 - [What BIOS stand for?](Diversified/bios.md)
 - [What CLI stand for?](Diversified/cli.md)
 - [What about QVGA size?](Diversified/qvga-videosize.md)
+
+### Emulation
+- [What is?](Emulation/What-is.md)
+- [What CPU stands for?](Emulation/cpu.md)
 
 ### GBA Programming 
 
