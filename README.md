@@ -14,6 +14,7 @@ For the organization sake of this repo I will subdivide each tecnology in separa
 - [JavaScript](#JavaScript)
 - [Laravel](#laravel)
 - [Linux](#Linux)
+- [Next.js](#nextJs)
 - [Node.js](#NodeJs)
 - [Rom Hacking](#rom-hacking)
 - [ReactJS](#ReactJs)
@@ -68,6 +69,10 @@ For the organization sake of this repo I will subdivide each tecnology in separa
 
 - [Scanning bad blocks](Linux/scanning-badblocks.md)
 - [Back one directory](Linux/back-directory.md)
+
+### Next.js
+
+-[What is Next.js?](Next.js/what-is.md)
 
 ### Node.js
 
