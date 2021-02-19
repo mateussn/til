@@ -72,7 +72,7 @@ For the organization sake of this repo I will subdivide each tecnology in separa
 
 ### Next.js
 
--[What is Next.js?](Next.js/what-is.md)
+- [What is Next.js?](Next.js/what-is.md)
 
 ### Node.js
 
